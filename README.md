@@ -2,7 +2,7 @@
 
 Este projeto demonstra como criar um modal reutilizável usando React, com foco em componentização, acessibilidade e boas práticas de UI/UX.
 
-##✨ Funcionalidades
+## ✨ Funcionalidades
 
 Componente de modal reutilizável
 
